@@ -1,3 +1,8 @@
+updated:
+fork to build with rebar
+rebar clean compile
+get rebar from https://github.com/rebar/rebar
+
 Installation Instructions
 *************************
 
