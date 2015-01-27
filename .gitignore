@@ -14,7 +14,6 @@ missing
 *.rel
 *.boot
 *.script
-src/overview.edoc
 src/*.html
 src/edoc-info
 src/erlang.png
